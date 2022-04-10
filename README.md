@@ -5,10 +5,6 @@
 <div align="center">
   <h3 align="center">Deep reinforcement learning-based solution for a multi-objective online order batching problem</h3>
 
-  <p align="center">
-    Martijn Beeks, Reza Refaei Afshar, Yingqian Zhang, Remco Dijkman, Claudy van Dorst, Stijn de Looijer
-    <br />
-  </p>
 </div>
 
 
@@ -16,8 +12,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains code for the presented DRL approach in the paper "Deep reinforcement learning-based solution for a multi-objective online order batching problem".
+This repository contains code for the presented DRL approach in the paper: 
 
+Beeks, M. S., Refaei Afshar, R., Zhang, Y., Dijkman, R. M., van Dorst, C., & de Looijer, S.. Deep Reinforcement Learning for a Multi-Objective Online Order Batching Problem. In Proceedings of the International Conference on Automated Planning and Scheduling, Association for the Advancement of Artificial Intelligence (AAAI), 2022.
+
+Note that the shared simulation model is greatly simplified in comparison to the one used in the paper, due to confidentiality.  
 
 
 <!-- GETTING STARTED -->
